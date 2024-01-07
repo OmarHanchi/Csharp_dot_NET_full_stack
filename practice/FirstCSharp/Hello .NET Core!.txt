@@ -1,0 +1,14 @@
+dell@DESKTOP-KFIDSMO MINGW64 /e/Dojo/CCC/FirstCSharp
+$ dotnet --version
+6.0.417
+dell@DESKTOP-KFIDSMO MINGW64 /e/Dojo/CCC
+
+$ dotnet new console -o CSharpProject
+The template "Console App" was created successfully.
+
+Processing post-creation actions...
+Running 'dotnet restore' on E:\Dojo\CCC\CSharpProject\CSharpProject.csproj...
+  Determining projects to restore...
+  Restored E:\Dojo\CCC\CSharpProject\CSharpProject.csproj (in 92 ms).
+Restore succeeded.
+
