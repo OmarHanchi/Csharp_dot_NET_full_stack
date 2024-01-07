@@ -1,0 +1,8 @@
+Starting up a new Console App
+Manually:
+    mkdir FirstCSharp
+    cd FirstCSharp
+    dotnet new console
+
+One line:
+    dotnet new console -o FirstCSharp

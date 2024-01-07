@@ -1,0 +1,15 @@
+E:\Dojo\CCC\FirstCSharp\bin\Debug\net6.0\FirstCSharp.exe
+E:\Dojo\CCC\FirstCSharp\bin\Debug\net6.0\FirstCSharp.deps.json
+E:\Dojo\CCC\FirstCSharp\bin\Debug\net6.0\FirstCSharp.runtimeconfig.json
+E:\Dojo\CCC\FirstCSharp\bin\Debug\net6.0\FirstCSharp.dll
+E:\Dojo\CCC\FirstCSharp\bin\Debug\net6.0\FirstCSharp.pdb
+E:\Dojo\CCC\FirstCSharp\obj\Debug\net6.0\FirstCSharp.csproj.AssemblyReference.cache
+E:\Dojo\CCC\FirstCSharp\obj\Debug\net6.0\FirstCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dojo\CCC\FirstCSharp\obj\Debug\net6.0\FirstCSharp.AssemblyInfoInputs.cache
+E:\Dojo\CCC\FirstCSharp\obj\Debug\net6.0\FirstCSharp.AssemblyInfo.cs
+E:\Dojo\CCC\FirstCSharp\obj\Debug\net6.0\FirstCSharp.csproj.CoreCompileInputs.cache
+E:\Dojo\CCC\FirstCSharp\obj\Debug\net6.0\FirstCSharp.dll
+E:\Dojo\CCC\FirstCSharp\obj\Debug\net6.0\refint\FirstCSharp.dll
+E:\Dojo\CCC\FirstCSharp\obj\Debug\net6.0\FirstCSharp.pdb
+E:\Dojo\CCC\FirstCSharp\obj\Debug\net6.0\FirstCSharp.genruntimeconfig.cache
+E:\Dojo\CCC\FirstCSharp\obj\Debug\net6.0\ref\FirstCSharp.dll
