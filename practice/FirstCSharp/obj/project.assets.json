@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Dojo\\CCC\\FirstCSharp\\FirstCSharp.csproj",
+      "projectUniqueName": "E:\\Dojo\\CCC\\practice\\FirstCSharp\\FirstCSharp.csproj",
       "projectName": "FirstCSharp",
-      "projectPath": "E:\\Dojo\\CCC\\FirstCSharp\\FirstCSharp.csproj",
+      "projectPath": "E:\\Dojo\\CCC\\practice\\FirstCSharp\\FirstCSharp.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "E:\\Dojo\\CCC\\FirstCSharp\\obj\\",
+      "outputPath": "E:\\Dojo\\CCC\\practice\\FirstCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config"

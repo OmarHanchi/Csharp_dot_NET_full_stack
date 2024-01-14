@@ -1,0 +1,15 @@
+E:\Dojo\CCC\practice\CSharpProject\bin\Debug\net6.0\CSharpProject.exe
+E:\Dojo\CCC\practice\CSharpProject\bin\Debug\net6.0\CSharpProject.deps.json
+E:\Dojo\CCC\practice\CSharpProject\bin\Debug\net6.0\CSharpProject.runtimeconfig.json
+E:\Dojo\CCC\practice\CSharpProject\bin\Debug\net6.0\CSharpProject.dll
+E:\Dojo\CCC\practice\CSharpProject\bin\Debug\net6.0\CSharpProject.pdb
+E:\Dojo\CCC\practice\CSharpProject\obj\Debug\net6.0\CSharpProject.csproj.AssemblyReference.cache
+E:\Dojo\CCC\practice\CSharpProject\obj\Debug\net6.0\CSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dojo\CCC\practice\CSharpProject\obj\Debug\net6.0\CSharpProject.AssemblyInfoInputs.cache
+E:\Dojo\CCC\practice\CSharpProject\obj\Debug\net6.0\CSharpProject.AssemblyInfo.cs
+E:\Dojo\CCC\practice\CSharpProject\obj\Debug\net6.0\CSharpProject.csproj.CoreCompileInputs.cache
+E:\Dojo\CCC\practice\CSharpProject\obj\Debug\net6.0\CSharpProject.dll
+E:\Dojo\CCC\practice\CSharpProject\obj\Debug\net6.0\refint\CSharpProject.dll
+E:\Dojo\CCC\practice\CSharpProject\obj\Debug\net6.0\CSharpProject.pdb
+E:\Dojo\CCC\practice\CSharpProject\obj\Debug\net6.0\CSharpProject.genruntimeconfig.cache
+E:\Dojo\CCC\practice\CSharpProject\obj\Debug\net6.0\ref\CSharpProject.dll

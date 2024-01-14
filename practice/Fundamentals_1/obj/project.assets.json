@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Dojo\\CCC\\practice\\CSharpProject\\CSharpProject.csproj",
-      "projectName": "CSharpProject",
-      "projectPath": "E:\\Dojo\\CCC\\practice\\CSharpProject\\CSharpProject.csproj",
+      "projectUniqueName": "E:\\dojo\\CCC\\practice\\Fundamentals_1\\Fundamentals_1.csproj",
+      "projectName": "Fundamentals_1",
+      "projectPath": "E:\\dojo\\CCC\\practice\\Fundamentals_1\\Fundamentals_1.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "E:\\Dojo\\CCC\\practice\\CSharpProject\\obj\\",
+      "outputPath": "E:\\dojo\\CCC\\practice\\Fundamentals_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config"

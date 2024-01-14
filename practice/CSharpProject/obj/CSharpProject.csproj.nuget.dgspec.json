@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Dojo\\CCC\\CSharpProject\\CSharpProject.csproj": {}
+    "E:\\Dojo\\CCC\\practice\\CSharpProject\\CSharpProject.csproj": {}
   },
   "projects": {
-    "E:\\Dojo\\CCC\\CSharpProject\\CSharpProject.csproj": {
+    "E:\\Dojo\\CCC\\practice\\CSharpProject\\CSharpProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Dojo\\CCC\\CSharpProject\\CSharpProject.csproj",
+        "projectUniqueName": "E:\\Dojo\\CCC\\practice\\CSharpProject\\CSharpProject.csproj",
         "projectName": "CSharpProject",
-        "projectPath": "E:\\Dojo\\CCC\\CSharpProject\\CSharpProject.csproj",
+        "projectPath": "E:\\Dojo\\CCC\\practice\\CSharpProject\\CSharpProject.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "E:\\Dojo\\CCC\\CSharpProject\\obj\\",
+        "outputPath": "E:\\Dojo\\CCC\\practice\\CSharpProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
