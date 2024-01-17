@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "J0v5+N4RyfwGfr6FUwSl4U6tnXNFImTVCQ0VMlNd8zgayO3VDz4ysQLehe+1GoHSREkU0KDh2Qk4xQ7gWvzTQw==",
+  "success": true,
+  "projectFilePath": "E:\\Dojo\\CCC\\core\\CollectionsPractice\\CollectionsPractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

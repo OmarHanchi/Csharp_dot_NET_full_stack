@@ -21,6 +21,8 @@ foreach (string car in myCars)
 }
 
 //
+//
+//
 
 for (int idx = 0; idx < myCars.Length; idx++)
 {

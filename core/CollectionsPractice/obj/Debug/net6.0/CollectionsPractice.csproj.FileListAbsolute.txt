@@ -1,0 +1,15 @@
+E:\Dojo\CCC\core\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dojo\CCC\core\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.AssemblyInfoInputs.cache
+E:\Dojo\CCC\core\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.AssemblyInfo.cs
+E:\Dojo\CCC\core\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.csproj.CoreCompileInputs.cache
+E:\Dojo\CCC\core\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.sourcelink.json
+E:\Dojo\CCC\core\CollectionsPractice\bin\Debug\net6.0\CollectionsPractice.exe
+E:\Dojo\CCC\core\CollectionsPractice\bin\Debug\net6.0\CollectionsPractice.deps.json
+E:\Dojo\CCC\core\CollectionsPractice\bin\Debug\net6.0\CollectionsPractice.runtimeconfig.json
+E:\Dojo\CCC\core\CollectionsPractice\bin\Debug\net6.0\CollectionsPractice.dll
+E:\Dojo\CCC\core\CollectionsPractice\bin\Debug\net6.0\CollectionsPractice.pdb
+E:\Dojo\CCC\core\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.dll
+E:\Dojo\CCC\core\CollectionsPractice\obj\Debug\net6.0\refint\CollectionsPractice.dll
+E:\Dojo\CCC\core\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.pdb
+E:\Dojo\CCC\core\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.genruntimeconfig.cache
+E:\Dojo\CCC\core\CollectionsPractice\obj\Debug\net6.0\ref\CollectionsPractice.dll
