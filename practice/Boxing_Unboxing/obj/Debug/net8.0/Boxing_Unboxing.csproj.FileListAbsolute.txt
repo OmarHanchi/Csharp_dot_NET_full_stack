@@ -1,0 +1,15 @@
+E:\Dojo\CCC\practice\Boxing_Unboxing\bin\Debug\net8.0\Boxing_Unboxing.exe
+E:\Dojo\CCC\practice\Boxing_Unboxing\bin\Debug\net8.0\Boxing_Unboxing.deps.json
+E:\Dojo\CCC\practice\Boxing_Unboxing\bin\Debug\net8.0\Boxing_Unboxing.runtimeconfig.json
+E:\Dojo\CCC\practice\Boxing_Unboxing\bin\Debug\net8.0\Boxing_Unboxing.dll
+E:\Dojo\CCC\practice\Boxing_Unboxing\bin\Debug\net8.0\Boxing_Unboxing.pdb
+E:\Dojo\CCC\practice\Boxing_Unboxing\obj\Debug\net8.0\Boxing_Unboxing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dojo\CCC\practice\Boxing_Unboxing\obj\Debug\net8.0\Boxing_Unboxing.AssemblyInfoInputs.cache
+E:\Dojo\CCC\practice\Boxing_Unboxing\obj\Debug\net8.0\Boxing_Unboxing.AssemblyInfo.cs
+E:\Dojo\CCC\practice\Boxing_Unboxing\obj\Debug\net8.0\Boxing_Unboxing.csproj.CoreCompileInputs.cache
+E:\Dojo\CCC\practice\Boxing_Unboxing\obj\Debug\net8.0\Boxing_Unboxing.sourcelink.json
+E:\Dojo\CCC\practice\Boxing_Unboxing\obj\Debug\net8.0\Boxing_Unboxing.dll
+E:\Dojo\CCC\practice\Boxing_Unboxing\obj\Debug\net8.0\refint\Boxing_Unboxing.dll
+E:\Dojo\CCC\practice\Boxing_Unboxing\obj\Debug\net8.0\Boxing_Unboxing.pdb
+E:\Dojo\CCC\practice\Boxing_Unboxing\obj\Debug\net8.0\Boxing_Unboxing.genruntimeconfig.cache
+E:\Dojo\CCC\practice\Boxing_Unboxing\obj\Debug\net8.0\ref\Boxing_Unboxing.dll
