@@ -1,0 +1,15 @@
+E:\Dojo\CCC\core\Puzzles\bin\Debug\net8.0\Puzzles.exe
+E:\Dojo\CCC\core\Puzzles\bin\Debug\net8.0\Puzzles.deps.json
+E:\Dojo\CCC\core\Puzzles\bin\Debug\net8.0\Puzzles.runtimeconfig.json
+E:\Dojo\CCC\core\Puzzles\bin\Debug\net8.0\Puzzles.dll
+E:\Dojo\CCC\core\Puzzles\bin\Debug\net8.0\Puzzles.pdb
+E:\Dojo\CCC\core\Puzzles\obj\Debug\net8.0\Puzzles.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dojo\CCC\core\Puzzles\obj\Debug\net8.0\Puzzles.AssemblyInfoInputs.cache
+E:\Dojo\CCC\core\Puzzles\obj\Debug\net8.0\Puzzles.AssemblyInfo.cs
+E:\Dojo\CCC\core\Puzzles\obj\Debug\net8.0\Puzzles.csproj.CoreCompileInputs.cache
+E:\Dojo\CCC\core\Puzzles\obj\Debug\net8.0\Puzzles.sourcelink.json
+E:\Dojo\CCC\core\Puzzles\obj\Debug\net8.0\Puzzles.dll
+E:\Dojo\CCC\core\Puzzles\obj\Debug\net8.0\refint\Puzzles.dll
+E:\Dojo\CCC\core\Puzzles\obj\Debug\net8.0\Puzzles.pdb
+E:\Dojo\CCC\core\Puzzles\obj\Debug\net8.0\Puzzles.genruntimeconfig.cache
+E:\Dojo\CCC\core\Puzzles\obj\Debug\net8.0\ref\Puzzles.dll
